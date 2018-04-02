@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MartenzytycznyMściciel2", "MartenzytycznyMściciel2\MartenzytycznyMściciel2.vcxproj", "{A7611249-17CF-4FFD-A602-7E5F457EE49B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7611249-17CF-4FFD-A602-7E5F457EE49B}.Debug|x64.ActiveCfg = Debug|x64
+		{A7611249-17CF-4FFD-A602-7E5F457EE49B}.Debug|x64.Build.0 = Debug|x64
+		{A7611249-17CF-4FFD-A602-7E5F457EE49B}.Debug|x86.ActiveCfg = Debug|Win32
+		{A7611249-17CF-4FFD-A602-7E5F457EE49B}.Debug|x86.Build.0 = Debug|Win32
+		{A7611249-17CF-4FFD-A602-7E5F457EE49B}.Release|x64.ActiveCfg = Release|x64
+		{A7611249-17CF-4FFD-A602-7E5F457EE49B}.Release|x64.Build.0 = Release|x64
+		{A7611249-17CF-4FFD-A602-7E5F457EE49B}.Release|x86.ActiveCfg = Release|Win32
+		{A7611249-17CF-4FFD-A602-7E5F457EE49B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C06593B5-A57B-4908-885F-0C4F1672E92C}
+	EndGlobalSection
+EndGlobal
